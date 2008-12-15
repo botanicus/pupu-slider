@@ -2,7 +2,8 @@
 dependencies :mootools
 
 # javascripts for loading
-javascripts "slider"
+javascript "slider"
+stylesheet "slider"
 
 # parameters of plugin
 # it will be blank in most cases
