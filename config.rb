@@ -1,8 +1,7 @@
 # dependencies of the pupu
 dependencies :mootools
 
-# javascripts for loading
-javascript "slider"
+# stylesheets
 stylesheet "slider"
 
 # parameters of plugin
